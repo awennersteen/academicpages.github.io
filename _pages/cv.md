@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Shortened CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MPhys Mathematical Physics - 2014-2019 - The University of Edinburgh
+  * Thesis: Ab initio characterisation and search for topological insulators
+* Summer schools in [GPU programming](pumps), at CERN, and in [SoHPC]()
+* Training in topics ranging from Spark to MPI and OpenMP parallel programming by the [EPCC]()
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: [Openlab Summer student]()
+  * CERNs HPC group
+  * Containerised HPC with [Singularity]()
+  * Supervisors: Pablo and Carolina
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2017/2018: Co-founder / CTO
+  * Attempted start up adventure
+
+* Summer 2017: Summer research student
+  * The University of Edinburgh
+  * Porting [Grid](https://github.com/paboyle/Grid) to GPUs using CUDA
+  * The team got a [Publication](), [conference talk 1]() and [conference talk 2]()
+  * Supervisor: [Peter Boyle]()
+
+* Summer/Autumn 2017: Visiting researcher funded by [SoHPC]()
+  * Barcelona Supercomputing Center
+  * Enhancing GPU based crowd simulations by Monte Carlo and deep learning methods
+  * Wrote [blog posts]()
+  * Supervisors: [Vassil Alexandrov]() and [Isaac Rudomin]()
+
+* Summer 2016: Intern
+  * [Norspace](https://www.kongsberg.com/en/kds/kns/)
+  * Autmating calibration of Climate Chambers
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software Development
+  * From the data centres to PCs, from HPC to web
+  * From C++ and Python to Lisp. 
+* HPC
+  * Parallel programming
+  * Heterogeneous architectures
+  * Performance optimisation
+  * DevOps and SysAdmin
+  * Optimisation theory
 
-Publications
+
+Contact
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Email me at [awennersteen@gmail.com](awennersteen@gmail.com)
+Visit my LinkedIn (.com/in/awennersteen)(https://linkedin.com/in/awennersteen
+
