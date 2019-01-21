@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hi!"
-excerpt: "About me"
+excerpt: "I'm a SW dev/devops guy interested in distributed computing, HPC, GPUs, ML, and DevOps."
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,8 +16,8 @@ I’ve worked in CERNs HPC group on containerised HPC, in the extremescale algor
 I'm not sure exactly what direction I would like to go into, but it will involve computers.
 My favourite thing to do is solve problems, and sadly, my brain just isn't big enough to solve interesting problems anymore.
 
-I hope start working on open source projects upon graduating, as I think this is one of the best ways of making a difference in the software world.
-This view was strongly reinforced in the past year, where I first got first-hand experience with a large-scale organisation centred around open source software as an openlab summer student at CERN.
+I hope to  start working on open source projects upon graduating, as I think this is one of the best ways of making a difference in the software world.
+This view was strongly reinforced in the past year, where I got a first-hand experience with a large-scale organisation centred around open source software as an openlab summer student at CERN.
 I then attended the Linux foundations open source software conference where I was further introduced to the amazing community in the OSS world.
 
 
