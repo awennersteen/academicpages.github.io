@@ -14,7 +14,8 @@ I'm currently looking for interesting things to do after I graduate from my Math
 I’ve worked in CERNs HPC group on containerised HPC, in the extremescale algorithms and visualisation groups at the Barcelona Supercomputing Center on deep learning and Monte Carlo assisted crowd simulations, and with particle physicists from Edinburgh, Brookhaven and Nvidia on accelerating lattice QCD with GPUs. For more look at my [CV](cv).
 
 I'm not sure exactly what direction I would like to go into, but it will involve computers.
-My favourite thing to do is solve problems, and sadly, my brain just isn't big enough to solve interesting problems anymore.
+My favourite thing to do is solve problems. Sadly, my brain just isn't big enough to solve interesting problems anymore,
+hence I need to rely on computers to do the hard bits for me.
 
 I hope to  start working on open source projects upon graduating, as I think this is one of the best ways of making a difference in the software world.
 This view was strongly reinforced in the past year, where I got a first-hand experience with a large-scale organisation centred around open source software as an openlab summer student at CERN.
