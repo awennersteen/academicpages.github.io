@@ -13,6 +13,7 @@ Education
 ======
 * MPhys Mathematical Physics - 2014-2019 - The University of Edinburgh
   * Thesis: Ab initio characterisation and search for topological insulators
+  * SH project: Ab initio methods for Raman spectra calculations within density-functional theory
 * Summer schools in [GPU programming](https://pumps.bsc.es), at CERN, and in [SoHPC](https://summerofhpc.prace-ri.eu)
 * Training in topics ranging from Spark to MPI and OpenMP parallel programming by the [EPCC](https://www.epcc.ed.ac.uk)
 

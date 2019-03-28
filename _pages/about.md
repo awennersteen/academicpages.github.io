@@ -11,7 +11,9 @@ redirect_from:
 My name is Aleksander Wennersteen, high performance computing aficionado with particular interest in distributed and heterogeneous systems, large-scale algorithms and optimization theory.
 I'm currently looking for interesting things to do after I graduate from my Mathematical Physics MPhys degree at The University of Edinburgh.
 
-I’ve worked in CERNs HPC group on containerised HPC, in the extremescale algorithms and visualisation groups at the Barcelona Supercomputing Center on deep learning and Monte Carlo assisted crowd simulations, and with particle physicists from Edinburgh, Brookhaven and Nvidia on accelerating lattice QCD with GPUs. For more look at my [CV](cv).
+I’ve worked in CERNs HPC group on containerised HPC, in the extremescale algorithms and visualisation groups at the Barcelona Supercomputing Center on deep learning and Monte Carlo assisted crowd simulations, and with particle physicists from Edinburgh, Brookhaven and Nvidia on accelerating lattice QCD with GPUs. 
+My Senior Honours and MPhys projects (think BSc and MSc projects) were both within Density Functional Theory (DFT). 
+For more look at my [CV](cv).
 
 I'm not sure exactly what direction I would like to go into, but it will involve computers.
 My favourite thing to do is solve problems. Sadly, my brain just isn't big enough to solve interesting problems anymore,
