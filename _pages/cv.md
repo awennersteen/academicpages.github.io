@@ -59,5 +59,6 @@ Skills
 Contact
 ======
 Email me at [awennersteen@gmail.com](awennersteen@gmail.com)
-Visit my LinkedIn [.com/in/awennersteen](https://linkedin.com/in/awennersteen)
+
+Visit me at [LinkedIn.com/in/awennersteen](https://linkedin.com/in/awennersteen)
 
