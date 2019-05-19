@@ -26,6 +26,8 @@ Work experience
 
 * Winter 2017/2018: Co-founder / CTO
   * Attempted start up adventure
+  * Created a hybrid social network / marketplace based upon closed groups.
+  * Main technologies used: Node.js, Bootstrap, Angular 5, Heroku, AWS for media hosting.
 
 * Summer 2017: Summer research student
   * The University of Edinburgh
